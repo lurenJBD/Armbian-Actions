@@ -19,6 +19,7 @@ on:
           - 'nanopi-r3s'
           - 'onecloud'
           - 'station-m2'
+          - 'orangepi5-plus'
       BRANCH:
         description: 'Kernel branch'
         default: 'current'
